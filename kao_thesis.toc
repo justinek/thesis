@@ -1,0 +1,73 @@
+\contentsline {chapter}{Abstract}{v}
+\contentsline {chapter}{Acknowledgments}{vi}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Taking language play seriously}{3}
+\contentsline {section}{\numberline {1.2}Overview}{5}
+\contentsline {chapter}{\numberline {2}Nonliteral Understanding of Number Words}{8}
+\contentsline {section}{\numberline {2.1}Introduction}{8}
+\contentsline {section}{\numberline {2.2}Materials and Methods}{12}
+\contentsline {subsection}{\numberline {2.2.1}Model}{12}
+\contentsline {subsection}{\numberline {2.2.2}Experiment 1: Halo and hyperbole}{15}
+\contentsline {subsection}{\numberline {2.2.3}Experiment 2: Affective subtext}{16}
+\contentsline {subsection}{\numberline {2.2.4}Experiment 3a: Price prior}{17}
+\contentsline {subsection}{\numberline {2.2.5}Experiment 3b: Affect prior}{17}
+\contentsline {section}{\numberline {2.3}Results}{18}
+\contentsline {subsection}{\numberline {2.3.1}Model simulations}{18}
+\contentsline {subsection}{\numberline {2.3.2}Behavioral experiments}{20}
+\contentsline {section}{\numberline {2.4}Discussion}{25}
+\contentsline {chapter}{\numberline {3}Formalizing the Pragmatics of Figurative Language}{27}
+\contentsline {section}{\numberline {3.1}Introduction}{27}
+\contentsline {subsection}{\numberline {3.1.1}Types of figurative language}{33}
+\contentsline {subsubsection}{Hyperbole}{34}
+\contentsline {subsubsection}{Verbal irony}{35}
+\contentsline {subsubsection}{Metaphor}{35}
+\contentsline {subsubsection}{Putting it all together}{41}
+\contentsline {section}{\numberline {3.2}Probabilistic Models of Language Understanding}{41}
+\contentsline {subsection}{\numberline {3.2.1}Rational Speech-acts Model with QUD inference}{44}
+\contentsline {section}{\numberline {3.3}Modeling Figurative Language}{47}
+\contentsline {subsection}{\numberline {3.3.1}Verbal Irony}{48}
+\contentsline {subsubsection}{Model}{49}
+\contentsline {subsubsection}{Experiment 1a: Background knowledge for verbal irony}{53}
+\contentsline {subsubsection}{Experiment 1b: Interpreting verbal irony}{55}
+\contentsline {subsubsection}{Irony model evaluation}{57}
+\contentsline {subsubsection}{Discussion}{58}
+\contentsline {subsection}{\numberline {3.3.2}Metaphor}{59}
+\contentsline {subsubsection}{Model}{60}
+\contentsline {subsubsection}{Experiment 2a: Feature Elicitation}{62}
+\contentsline {subsubsection}{Experiment 2b: Feature Prior Elicitation}{63}
+\contentsline {subsubsection}{Experiment 2c: Metaphor Interpretation}{64}
+\contentsline {subsubsection}{Metaphor model evaluation}{65}
+\contentsline {subsubsection}{Experiment 3a: Feature Elicitation}{68}
+\contentsline {subsubsection}{Experiment 3b: Alternative Elicitation}{68}
+\contentsline {subsubsection}{Experiment 3c: Feature Prior Elicitation}{69}
+\contentsline {subsubsection}{Experiment 3d: Metaphor Interpretation}{70}
+\contentsline {subsubsection}{Model evaluation}{70}
+\contentsline {subsubsection}{Discussion}{70}
+\contentsline {subsection}{\numberline {3.3.3}Hyperbolic Metaphor}{70}
+\contentsline {subsubsection}{Model}{71}
+\contentsline {subsubsection}{Experiment 4a: Prior Elicitation}{71}
+\contentsline {subsubsection}{Experiment 4b: Metaphor Interpretation}{71}
+\contentsline {subsubsection}{Model Evaluation}{71}
+\contentsline {subsubsection}{Discussion}{71}
+\contentsline {section}{\numberline {3.4}General Discussion}{71}
+\contentsline {subsection}{\numberline {3.4.1}Future directions}{74}
+\contentsline {section}{\numberline {3.5}Conclusion}{76}
+\contentsline {chapter}{\numberline {4}Social Inferences and Figurative Language}{83}
+\contentsline {section}{\numberline {4.1}Introduction}{83}
+\contentsline {section}{\numberline {4.2}Modeling Social Inferences}{85}
+\contentsline {subsection}{\numberline {4.2.1}Perfect common ground}{86}
+\contentsline {subsection}{\numberline {4.2.2}Inferring speaker's priors}{87}
+\contentsline {subsection}{\numberline {4.2.3}Inferring speaker's beliefs about common ground}{90}
+\contentsline {subsection}{\numberline {4.2.4}Communicating beliefs about common ground}{92}
+\contentsline {section}{\numberline {4.3}Discussion}{93}
+\contentsline {chapter}{\numberline {5}A Computational Model of Humor in Puns}{96}
+\contentsline {section}{\numberline {5.1}Introduction}{97}
+\contentsline {section}{\numberline {5.2}Methods}{101}
+\contentsline {subsection}{\numberline {5.2.1}Computing model predictions}{101}
+\contentsline {subsection}{\numberline {5.2.2}Experiment}{102}
+\contentsline {section}{\numberline {5.3}Results}{105}
+\contentsline {section}{\numberline {5.4}Discussion}{108}
+\contentsline {chapter}{\numberline {6}Conclusions}{111}
+\contentsline {section}{\numberline {6.1}Limitations and future directions}{112}
+\contentsline {section}{\numberline {6.2}Final remarks}{114}
+\contentsline {chapter}{References}{116}
